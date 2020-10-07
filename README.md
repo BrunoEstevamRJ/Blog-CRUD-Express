@@ -11,4 +11,5 @@ npm install body-parser --save
 
 
 npm install -g nodemon
+
 Rodando em nodemon app.js
